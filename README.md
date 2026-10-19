@@ -125,6 +125,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Accounting, Invoicing & Tax
 
+- [CashFlow Pick AP Automation ROI Calculator](https://cashflowpick.com/) – Free educational calculators and explainers for AP automation / expense workflows.
+
 - [QuickBooks](https://quickbooks.intuit.com/) – Accounting and bookkeeping software.
 - [Xero](https://www.xero.com/) – Cloud-based accounting platform for SMBs.
 - [FreshBooks](https://www.freshbooks.com/) – Invoicing and accounting for small businesses.
