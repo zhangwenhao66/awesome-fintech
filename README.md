@@ -138,6 +138,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Open Banking APIs](https://www.openbanking.org.uk/) – Standards-based financial APIs.
 - [AWS for Financial Services](https://aws.amazon.com/financial-services/) – Cloud infrastructure for FinTech workloads.
 - [Google Cloud for FinTech](https://cloud.google.com/solutions/financial-services) – Cloud services for financial applications.
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video / photo-to-video meme templates, 9:16, freemium).
 
 ## Learning Resources
 
